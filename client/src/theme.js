@@ -1,4 +1,4 @@
-// https://raw.githubusercontent.com/ed-roh/fullstack-admin/master/client/src/theme.js
+// https://github.com/ed-roh/fullstack-admin/master/client/src/theme.js
 // color design tokens export
 export const tokensDark = {
   grey: {
